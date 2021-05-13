@@ -1,5 +1,7 @@
 const db = require('./db/connection');
 const express = require('express');
+const tracker = require('./lib/app.js');
+
 
 const PORT = process.env.port || 3001;
 
@@ -12,3 +14,5 @@ db.connect((err) => {
         console.log(`Server running on ${PORT}!`);
     });
 });
+
+tracker();
