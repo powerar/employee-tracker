@@ -17,4 +17,4 @@ A command-line interface to manage employees.
 * MySql2
 
 ## Video Demo
-https://drive.google.com/file/d/1fCImA-W5qwwsHmqJXAUQtQph_Qha8RFf/view?usp=sharing
+https://drive.google.com/file/d/1fCImA-W5qwwsHmqJXAUQtQph_Qha8RFf/view
