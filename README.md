@@ -1,4 +1,4 @@
-# Note Taker
+# Employee Tracker
 
 ## Purpose
 A command-line interface to manage employees.
