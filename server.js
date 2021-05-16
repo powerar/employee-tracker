@@ -1,4 +1,4 @@
-const db = require('./db/connection');
+const db = require('./config/connection');
 const express = require('express');
 const tracker = require('./lib/app.js');
 
