@@ -17,3 +17,4 @@ A command-line interface to manage employees.
 * MySql2
 
 ## Screenshots
+![Employee-Tracker](https://user-images.githubusercontent.com/78888642/118408374-57696d80-b653-11eb-842f-72b94351cefd.gif)
