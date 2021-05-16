@@ -16,5 +16,5 @@ A command-line interface to manage employees.
 * dotenv
 * MySql2
 
-## Screenshots
-![Employee-Tracker](https://user-images.githubusercontent.com/78888642/118408374-57696d80-b653-11eb-842f-72b94351cefd.gif)
+## Video Demo
+https://drive.google.com/file/d/1fCImA-W5qwwsHmqJXAUQtQph_Qha8RFf/view?usp=sharing
